@@ -150,3 +150,9 @@ a:hover, a:focus, a:active {
   max-width: 30rem;
   max-height: 30rem;
 }
+
+#about .img-profile {
+    max-width: 10rem;
+    max-height: 10rem;
+    border: 0.5rem solid rgba(48,63,159,0.5);
+  }
