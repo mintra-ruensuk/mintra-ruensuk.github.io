@@ -56,9 +56,9 @@ h2 {
   font-size: 3rem;
 }
 
-.list-icons .list-inline-item i:hover {
+/*.list-icons .list-inline-item i:hover {
   color: #303F9F;
-}
+}*/
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
@@ -150,3 +150,9 @@ a:hover, a:focus, a:active {
   max-width: 30rem;
   max-height: 30rem;
 }
+
+#about .img-profile {
+    max-width: 10rem;
+    max-height: 10rem;
+    border: 0.5rem solid rgba(48,63,159,0.5);
+  }
