@@ -3,6 +3,15 @@ body {
   /*font-family: 'Open Sans', serif;*/
   padding-top: 54px;
   color: #868e96;
+  
+}
+
+#sideNav {
+  background-image: url("../img/joshua-rawson-harris-602332-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
 }
 
 @media (min-width: 992px) {
@@ -154,5 +163,15 @@ a:hover, a:focus, a:active {
 #about .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: 0.5rem solid rgba(48,63,159,0.5);
-  }
+    /*border: 0.5rem solid rgba(48,63,159,0.5);*/
+    border: 0.5rem solid rgba(35, 165, 153,0.5);
+
+
+}
+.credit {
+  position: absolute;
+  bottom: 0px;
+  color: white;
+  font-size: 0.7em;
+  color: rgba(255,255,255,.7);
+}
