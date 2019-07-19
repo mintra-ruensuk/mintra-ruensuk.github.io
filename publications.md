@@ -15,25 +15,13 @@ sitemap:
 
 [5] <b>Mintra Ruensuk</b>. 2018. Detecting Emotions using Smartphone Sensors: Technique to Raise Self-Awareness for Social Media Users. In Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers (UbiComp '18). DOI: <a href="https://doi.org/10.1145/3267305.3277825">https://doi.org/10.1145/3267305.3277825</a> 
 
-[4] Sirisilp Kongsilp, Mintra Ruensuk, Matthew N. Dailey, and Takashi Komuro. 2017. Tablet Fish Tank Virtual Reality: a Usability Study. International Conference on Artificial Reality and Telexistence Eurographics Symposium on Virtual Environments (ICAT-EGVE'17). Adelaide, Australia. [Poster][Research Gate]
+[4] Sirisilp Kongsilp, <b>Mintra Ruensuk</b>, Matthew N. Dailey, and Takashi Komuro. 2017. Tablet fish tank virtual reality: a usability study. In Proceedings of the 27th International Conference on Artificial Reality and Telexistence and 22nd Eurographics Symposium on Virtual Environments: Posters and Demos (ICAT-EGVE '17). DOI: <a href="https://doi.org/10.2312/egve.20171377">https://doi.org/10.2312/egve.20171377</a> 
 
-[3] Mintra Ruensuk. 2016. An implementation to reduce internal/external interruptions in Agile software development using Pomodoro Technique. In Proceedings of 15th IEEE/ACIS International Conference on Computer and Information Science (ICIS 2016). Okayama, Japan, 669 - 672. [IEEE Xplore]
+[3] <b>Mintra Ruensuk</b>. 2016. An implementation to reduce internal/external interruptions in Agile software development using Pomodoro Technique. In Proceedings of 15th IEEE/ACIS International Conference on Computer and Information Science (ICIS 2016). Okayama, Japan, 669 - 672. DOI: 
+<a href="https://doi.org/10.1109/ICIS.2016.7550835">https://doi.org/10.1109/ICIS.2016.7550835</a> 
 
-[2] Mintra Ruensuk, Buraskorn Yoosuka and Pongpol Nilaphruek. 2015. A Special Capstone Course for Exchange Students on Agile Software Development Using Scrum Methodology. PKRU Conference on Development of New and Innovation Research for the AEC. Phuket, Thailand.
 
-[1] Mintra Ruensuk, Woraphon Lilakiatsakun. 2010. Information Technology Jobs Matching By Groovy on Grails. In Proceedings of Conference on Electrical Engineering/Electronics Computer Telecommunications and Information Technology (ECTI-CARD). Pattaya, Thailand, 343 - 348.
+[2] <b>Mintra Ruensuk</b>, Buraskorn Yoosuka and Pongpol Nilaphruek. 2015. A Special Capstone Course for Exchange Students on Agile Software Development Using Scrum Methodology. PKRU Conference on Development of New and Innovation Research for the AEC. Phuket, Thailand.
 
-In this project, we explore how can we utilize smartphones sensors data such as touch interactions to classify social media users' emotions during the typical tasks including browsing and chatting. 
+[1] <b>Mintra Ruensuk</b>, Woraphon Lilakiatsakun. 2010. Information Technology Jobs Matching By Groovy on Grails. In Proceedings of Conference on Electrical Engineering/Electronics Computer Telecommunications and Information Technology (ECTI-CARD). Pattaya, Thailand, 343 - 348.
 
-<a href="/asian-chi" class="button">Visit Project Website</a>
-
-<hr />
-
-<span class="image fit" style="margin-bottom: 0px;">
-	<img src="{{ "/images/project2.jpg" | absolute_url }}" alt="" />
-</span>
-### Amor: Supporting Emerging Adult Couples to Manage Finances for a Common Goal
-
-Coming soon.
-
-<p style="font-size: 0.7rem; margin-top: -20px;">Photo by Oleg Magni and Blake Wisz on Unsplash</p>
