@@ -1,0 +1,71 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+    {% include head.html %}
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+				<div id="intro">
+        			<h1>{{site.title}}</h1>
+					<h2>{{site.bio}}</h2>
+					<p>
+						I am a second-year PhD Student at 
+						<a href="http://interactions.unist.ac.kr/" target="_blank">Interactions Lab</a>  at 
+						<a href="http://www.unist.ac.kr">UNIST</a> 
+						, South Korea. <br/>
+						I am also a member of DxD (data, interaction, design) Lab at <a href="http://www.useoul.edu/">Seoul National University.</a>  
+					</p>
+					
+					<ul class="actions">
+						<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
+					</ul>
+				</div>
+				<!-- Header -->
+				<header id="header">
+					<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+				</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+
+					</nav>
+
+				<!-- Main -->
+				<div id="main">
+
+					<!-- Post -->
+					<section class="post">
+						<p>{{content}}</p>
+					</section>
+
+					<!-- Footer -->
+					<!-- <footer>
+          				<ul class="actions">
+							<li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
+          				</ul>
+					</footer> -->
+				</div>
+
+				<!-- Footer -->
+        {% include footer-minimal.html %}
+
+			</div>
+
+			<!-- Scripts -->
+			{% include scripts-main.html %}
+			{% include tracking.html %}
+
+	</body>
+</html>

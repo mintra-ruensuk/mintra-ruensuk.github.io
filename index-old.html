@@ -1,0 +1,180 @@
+---
+layout: null
+title: Jekyll Theme - Home Page - Massively
+description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
+sitemap:
+    priority: 1.0
+    lastmod: 2017-11-02
+    changefreq: weekly
+---
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+    {% include head.html %}
+
+
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+            			<h1>{{site.title}}</h1>
+						<h2>{{site.bio}}</h2>
+						<p>
+							I am a second-year PhD Student at 
+							<a href="http://interactions.unist.ac.kr/" target="_blank">Interactions Lab</a>  at 
+							<a href="http://www.unist.ac.kr">UNIST</a> 
+							, South Korea. <br/>
+							I am also a member of DxD (data, interaction, design) Lab at Seoul National University.  
+						</p>
+						
+						<ul class="actions">
+							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+				      				<h2>
+				      					MINTRA RUENSUK 
+				      				</h2>
+				      				(มินตรา รื่นสุข)
+				      			</header>
+								<p>
+									<span class="image left">
+										<img src="{{ "/images/pic02.jpg" | absolute_url }}" alt="" />
+									</span>
+									I am a second-year PhD Student in the <a href="http://cde.unist.ac.kr">Graduate School of Creative Design Engineering</a> at <a href="http://www.unist.ac.kr"> Ulsan National Institute of Science and Technology (UNIST)</a> - pronouced as 'you-nist'. I am advised by <a href="http://www.whereveriam.org/work/">Ian Oakley</a> in the <a href="http://interactions.unist.ac.kr">Interactions Lab</a> and <a href="http://hwajunghong.com/">Hwajung Hong</a> in the DxD Lab. My research interests include social computing, affective computing and human-computer interaction. <br/>
+								</p>
+								<h2>Lists</h2>
+	<div class="row">
+		<div class="6u 12u$(small)">
+
+			<h3>Unordered</h3>
+			<ul>
+				<li>The first item on the list.</li>
+				<li>The second item.</li>
+				<li>And the fourth item!</li>
+				<li>Just kidding that last one was the third.</li>
+			</ul>
+
+			<h3>Alternate</h3>
+			<ul class="alt">
+				<li>The first item on the list.</li>
+				<li>The second item.</li>
+				<li>And the fourth item!</li>
+				<li>Just kidding that last one was the third.</li>
+			</ul>
+
+		</div>
+		<div class="6u$ 12u$(small)">
+
+			<h3>Ordered</h3>
+			<ol>
+				<li>The first item on the list.</li>
+				<li>The second item.</li>
+				<li>And the fourth item</li>
+				<li>Just kidding that last one was the third.</li>
+			</ol>
+
+			<h3>Icons</h3>
+			<ul class="icons">
+				<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+				<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+				<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+				<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+				<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+			</ul>
+			<ul class="icons alt">
+				<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
+				<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
+				<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+				<li><a href="#" class="icon alt fa-github"><span class="label">Github</span></a></li>
+				<li><a href="#" class="icon alt fa-dribbble"><span class="label">Dribbble</span></a></li>
+			</ul>
+
+		</div>
+	</div>
+								<a href="#" class="image"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a>
+                <p>Regardless of your website's function, the homepage is what brings the user in.
+                  If it's anything short of intriguing, captivating, or just plain cool, you're out of luck and you might deter some visitors.</p>
+                <p>Your homepage must clearly describe what your site is about.
+									Having engaging content will in this manner enable you to offer and it will make your customers more inclined to purchase from you. Content is a way to position your organization in the correct place for your clients to discover you.
+								</p>
+								<p>
+									In this manner, content in itself is a standout amongst the best promoting apparatuses in your whole advertising toolbox! Rather than making your content around your promoting technique, it's limitlessly more productive to fabricate your showcasing around your content.
+								 </p>
+
+							</article>
+
+						<!-- Posts -->
+							<section class="posts">
+                {% for post in site.posts limit:3 %}
+                {% assign mod3 = forloop.index | modulo: 3 %}
+  								<article>
+  									<header>
+  										<span class="date">{{ post.date | date_to_string }}</span>
+  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+  									</header>
+  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  									<p>{{ post.excerpt }}</p>
+  									<ul class="actions">
+  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+  									</ul>
+  								</article>
+                  {% if mod3 == 0 %}
+                  <article>
+  									<header>
+  										<h2><a href="#">Sponsored</a></h2>
+  									</header>
+
+  								</article>
+                  {% endif %}
+                {% endfor %}
+
+							</section>
+
+						<!-- Footer -->
+							<footer>
+                <ul class="actions">
+                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
+                </ul>
+							</footer>
+
+					</div>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+		<!-- Scripts -->
+		{% include scripts-main.html %}
+    {% include tracking.html %}
+
+	</body>
+</html>
