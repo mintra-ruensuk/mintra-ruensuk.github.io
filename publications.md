@@ -9,7 +9,9 @@ sitemap:
 ---
 ## Publications
 
-[7] <b>Mintra Ruensuk</b>, Hyunmi Oh, Eunyong Cheon, Hwajung Hong, Ian Oakley. 2019. Detecting Negative Emotions during Social Media Use on Smartphones. In ACM Asian CHI Symposium: Emerging HCI Research Collection, to appear.
+[8] <b>Mintra Ruensuk</b>, Hyunmi Oh, Eunyong Cheon, Hwajung Hong, Ian Oakley. 2019. Detecting Negative Emotions during Social Media Use on Smartphones. In ACM Asian CHI Symposium: Emerging HCI Research Collection, to appear.
+
+[7] Sanghyun Ma, <b>Mintra Ruensuk</b>, Chajoong Kim. 2019. Design interventions for promoting the mental health of young academics. In Proceedings of the Design Society: International Conference on Engineering Design (ICED19). DOI: <a href="https://doi.org/10.1017/dsi.2019.95">https://doi.org/10.1017/dsi.2019.95</a>
 
 [6] <b>Mintra Ruensuk</b>, Jayeong Yoon, and Choeun Park. 2019. Amor: Supporting Emerging Adult Couples to Manage Finances for a Common Goal. In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems (CHI EA '19). DOI: <a href="https://doi.org/10.1145/3290607.3309688">https://doi.org/10.1145/3290607.3309688</a> [13% acceptance]
 
