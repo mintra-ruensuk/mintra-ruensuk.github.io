@@ -26,6 +26,9 @@ In this project, we explore how can we utilize smartphones sensors data such as 
 </span>
 ### Amor: Supporting Emerging Adult Couples to Manage Finances for a Common Goal
 
-Coming soon.
+A healthy romantic relationship is one of the life goals of many couples. Sharing feelings, emotions, thoughts, activities, and even finances enables couples to spend quality time with each other. In particular, financial management plays an important role in relationship quality of emerging adult couples. We present Amor, a mobile application that bridges emerging adult couples closely to pool and spend their money together for a common goal. Amor also allows the couples to explore activities that harmonize with their characteristics as well as an encouragement for the two to achieve their desired goals.
+
+<a href="https://dl.acm.org/citation.cfm?id=3309688" target="_blank" class="button">Download Paper</a>
+<a href="/images/amor_poster.png" target="_blank" class="button">Download Poster</a>
 
 <p style="font-size: 0.7rem; margin-top: -20px;">Photo by Oleg Magni and Blake Wisz on Unsplash</p>
