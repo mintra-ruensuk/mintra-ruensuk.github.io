@@ -32,3 +32,16 @@ A healthy romantic relationship is one of the life goals of many couples. Sharin
 <a href="/images/amor_poster.png" target="_blank" class="button">Download Poster</a>
 
 <p style="font-size: 0.7rem; margin-top: -20px;">Photo by Oleg Magni and Blake Wisz on Unsplash</p>
+
+<hr />
+<span class="image fit" style="margin-bottom: 0px;">
+	<img src="{{ "/images/project2.jpg" | absolute_url }}" alt="" />
+</span>
+### Spotlight: donate your stories
+
+Today, the amount of One Person Household - OPH - is rapidly increasing in South Korea. This ratio was 14.4% in 2006 and increased to 27.2% in 2016. In particular, about 66% of the increased number of OPH from 2010 to 2015 is middle-aged people under the age of 60. Experts believe that the cause of this phenomenon is a combination of factors such as the increase in the number of children who live alone away from their parents, increase of women’s career advancement into society, increase of the elderly living alone as a result of aging, increase of unmarried people, job hunting, increase in divorce rate and low fertility. We decided to focus on the male OPH in their 50's mostly because we believe they are on the blind spot of welfare among a diverse range of OPH groups. To better understand their needs, wishes and pains, we have divided their issues and problems into three different categories: living, economic and social.
+
+<a href="/paper/spotlight.pdf" class="button">Download Paper</a>
+<a href="/paper/spsd-project-blindspot.pdf" class="button">Download Presentation</a>
+<a href="https://vimeo.com/246934951" target="_blank" class="button">Video</a>
+
