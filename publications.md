@@ -9,7 +9,7 @@ sitemap:
 ---
 ## Publications
 
-[9] Taewan Kim, <b>Mintra Ruensuk</b>, Hwajung Hong. 2020. In Helping a Vulnerable Bot, You Help Yourself: Designing a Social Bot as a Care-Receiver to Promote Mental Health and Reduce Stigma. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20), to appear.
+[9] Taewan Kim, <b>Mintra Ruensuk</b>, Hwajung Hong. 2020. In Helping a Vulnerable Bot, You Help Yourself: Designing a Social Bot as a Care-Receiver to Promote Mental Health and Reduce Stigma. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20). DOI: <a href="https://dl.acm.org/doi/abs/10.1145/3313831.3376743">https://dl.acm.org/doi/abs/10.1145/3313831.3376743</a>.
 
 [8] <b>Mintra Ruensuk</b>, Hyunmi Oh, Eunyong Cheon, Hwajung Hong, Ian Oakley. 2019. Detecting Negative Emotions during Social Media Use on Smartphones. In ACM Asian CHI Symposium: Emerging HCI Research Collection, to appear.
 
