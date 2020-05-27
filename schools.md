@@ -30,7 +30,7 @@ I like to be surrounded by a school environment. I think it helps me to feel fre
 	<h2>Stamford International University</h2>
 	<p>get to know passionate students and colleagues</p>
 </header>
-<span class="image fit"><img src="{{ "/images/unist.JPG" | absolute_url }}" alt="" /></span>
+<span class="image fit"><img src="{{ "/images/stamford.JPG" | absolute_url }}" alt="" /></span>
 <p>
 	Stamford is one of the best international schools located in Bangkok, Thailand. Students and staff are from 100+ different nationalities. This school is so cool! I had served my role as an IT Lecturer. I got to know a bunch of talented students across the world. I was so happy teaching them technical skills. Most of them have graduated by now, which makes me even happier to see them growing their career path. Some are programmers, some are designers, and all are still my favorite students. 
 </p>
