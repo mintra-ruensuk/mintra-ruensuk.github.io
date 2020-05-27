@@ -62,9 +62,9 @@ I like to be surrounded by a school environment. I think it helps me to feel fre
 	<h2>Mahanakorn University of Technology</h2>
 	<p>first place that have changed my entire world</p>
 </header>
-<span class="image fit"><img src="{{ "/images/unist.JPG" | absolute_url }}" alt="" /></span>
+<span class="image fit"><img src="{{ "/images/mut.jpg" | absolute_url }}" alt="" /></span>
 <p>
-	MUT might not be the most famous school in Thailand, but without MUT, I would not have come this far. Five years there was pretty long, and I enjoyed every minute as a student and also as a junior lecturer. I was completely no one before joining the school. Professors helped shape me by increasing my enthusiasm. I was a geek haha. I got to know the programming more and more and it is something that I will enjoy for the rest of my life.  
+	MUT might not be the most famous school in Thailand, but without MUT, I would not have come this far. Five years there was pretty long, and I enjoyed every minute as a student and also as a junior lecturer. I was completely no one before joining the school. Professors helped shape me by increasing my enthusiasm. I was a geek haha. I got to know the programming more and more and it is something that I will enjoy for the rest of my life. Image is from <a href="http://www.mut.ac.th/organization">http://www.mut.ac.th/organization</a>.  
 </p>
 
 
