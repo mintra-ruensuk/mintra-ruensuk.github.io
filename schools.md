@@ -15,6 +15,13 @@ I like to be surrounded by a school environment. I think it helps me to feel fre
 	<p>where I have been enjoying (and suffering) on my phd studies.</p>
 </header>
 <span class="image fit"><img src="{{ "/images/unist.JPG" | absolute_url }}" alt="" /></span>
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="{{ "/images/unist/unist1.jpg" | absolute_url }}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{{ "/images/unist/unist2.jpg" | absolute_url }}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="/images/unist/unist3.png" alt="" /></span></div>
+	</div>
+</div>
 <p>
 	UNIST is located in Ulsan, South Korea. I have moved to UNIST since Fall 2017. It was my first time ever relocating outside my country. My first impression on UNIST was impressive. The school is very beautiful and is surrounded by mountains with fresh air. I found it perfect for isolation to focus on my studies, although sometimes I feel like the school is too far from everything. 
 </p>
