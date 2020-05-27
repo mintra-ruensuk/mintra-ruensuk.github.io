@@ -40,7 +40,20 @@ I like to be surrounded by a school environment. I think it helps me to feel fre
 	<h2>Asian Institute of Technology</h2>
 	<p>my favorite second home of all time</p>
 </header>
-<span class="image fit"><img src="{{ "/images/unist.JPG" | absolute_url }}" alt="" /></span>
+<span class="image fit"><img src="{{ "/images/ait.JPG" | absolute_url }}" alt="" /></span>
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="{{ "/images/ait/ait1.jpg" | absolute_url }}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{{ "/images/ait/ait5.jpg" | absolute_url }}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="/images/ait/ait3.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{{ "/images/ait/ait4.jpg" | absolute_url }}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{{ "/images/ait/ait2.jpg" | absolute_url }}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="/images/ait/ait6.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{{ "/images/ait/ait7.jpg" | absolute_url }}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{{ "/images/ait/ait8.jpg" | absolute_url }}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="/images/ait/ait9.jpg" alt="" /></span></div>
+	</div>
+</div>
 <p>
 	AIT is one the best international graduate schools in Thailand. AIT is home. I spent my quality time here at AIT for only less than 2 years, but it's full of good memories. With the high reputation of the school in Asian, the school attracts people with high talents to join its programs. Specifically in Thailand, AIT is a place where countless amazing people come to pursue their dreams. Of course, I am a dreamer. AIT is the first ever international school that I joined. I was honored to be taught by professors and was surrounded by foreign friends. Life in AIT was very great. There are a lot of trees, houses, restaurants, and bicycle paths. Here at AIT, bicyclists are more powerful than car drivers. Don't worry you won't get hit by a car (but please be careful outside the school). God, I miss AIT so bad. 
 </p>
