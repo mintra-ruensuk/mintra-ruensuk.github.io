@@ -3,4 +3,4 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 asian-chi/node_modules/
-.Gemfile.lock
+Gemfile.lock
