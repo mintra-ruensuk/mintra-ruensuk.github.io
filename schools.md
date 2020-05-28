@@ -8,7 +8,7 @@ sitemap:
     changefreq: weekly
 ---
 
-I like to be surrounded by a school environment. I think it helps me to feel fresh? Just only thinking about my memories in school makes me happy already. So, why don’t I share it with you. Hope you enjoy it! 
+I like to be surrounded by a school environment. I think it helps me to feel fresh? Just only thinking about my memories in schools makes me happy already. So, why don’t I share it with you. Hope you enjoy it! 
 <hr />
 <header>
 	<h2>UNIST</h2>
