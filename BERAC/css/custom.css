@@ -9,3 +9,15 @@
 #logo a {
 	color: #FE9603;
 }
+
+.testi-image {
+	float: none;
+    margin: 0px auto 0; 
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+#footer .footer-widgets-wrap {
+    position: relative;
+    padding: 0px 0; 
+}
