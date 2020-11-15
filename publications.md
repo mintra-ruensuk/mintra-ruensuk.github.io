@@ -4,7 +4,7 @@ title: Publications - Mintra Ruensuk
 description: The research projects that Mintra has been working on.
 sitemap:
     priority: 0.7
-    lastmod: 2019-07-19
+    lastmod: 2020-11-15
     changefreq: weekly
 ---
 ## Publications
