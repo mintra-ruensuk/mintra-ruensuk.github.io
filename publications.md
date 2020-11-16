@@ -8,7 +8,7 @@ sitemap:
     changefreq: weekly
 ---
 ## Publications
-[10] <b>Mintra Ruensuk</b>, Eunyong Cheon, Hwajung Hong, Ian Oakley. 2020. "How Do You Feel Online? Exploiting Smartphone Sensors to Detect Transitory Emotions during Social Media Use" Proc. ACM Interact. Mob. Wearable Ubiquitous Technol, to appear 
+[10] <b>Mintra Ruensuk</b>, Eunyong Cheon, Hwajung Hong, Ian Oakley. 2020. "How Do You Feel Online? Exploiting Smartphone Sensors to Detect Transitory Emotions during Social Media Use" Proc. ACM Interact. Mob. Wearable Ubiquitous Technol (IMWUT, Ubicomp'21), to appear 
 
 [9] Taewan Kim, <b>Mintra Ruensuk</b>, Hwajung Hong. 2020. In Helping a Vulnerable Bot, You Help Yourself: Designing a Social Bot as a Care-Receiver to Promote Mental Health and Reduce Stigma. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20). DOI: <a href="https://doi.org/10.1145/3313831.3376743">https://doi.org/10.1145/3313831.3376743</a>.
 
