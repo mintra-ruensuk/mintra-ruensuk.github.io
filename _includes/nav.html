@@ -4,7 +4,7 @@
   <li class="{% if page.url contains '/research/' %} active {% endif %}"><a href="{{ "/research/" | absolute_url }}">Research</a></li>
   <li class="{% if page.url contains '/publications/' %} active {% endif %}"><a href="{{ "/publications/" | absolute_url }}">Publications</a></li>
   <li class="{% if page.url contains '/schools/' %} active {% endif %}"><a href="{{ "/schools/" | absolute_url }}">My Schools</a></li>
-  <li class=""><a href="{{ "/Mintra_CV.pdf" | absolute_url }}">Curriculum Vitae</a></li>
+  <li class="{% if page.url contains '/cv/' %} active {% endif %}"><a href="{{ "/cv/" | absolute_url }}">Contact & CV</a></li>
 </ul>
 
 <!-- <ul class="icons">
