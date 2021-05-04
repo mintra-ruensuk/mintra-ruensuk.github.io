@@ -9,7 +9,7 @@ sitemap:
 ---
 ## Mintra Ruensuk
 PhD Student at Interactions Lab at UNIST. <br/>
-Here's my <a href="{{ "/Mintra_CV.pdf" | absolute_url }}" ><b>CV</b></a> (last updated: March 2021).<br/>
+Here's my <a href="{{ "/Mintra_CV.pdf" | absolute_url }}" ><b>CV</b></a> (last updated: May 2021).<br/>
 
 ### Address
 Interactions Lab<br/>
