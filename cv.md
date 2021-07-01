@@ -4,12 +4,12 @@ title: CV - Mintra Ruensuk
 description: The CV of Mintra Ruensuk
 sitemap:
     priority: 0.7
-    lastmod: 2021-03-24
+    lastmod: 2021-07-01
     changefreq: weekly
 ---
 ## Mintra Ruensuk
 PhD Student at Interactions Lab at UNIST. <br/>
-Here's my <a href="{{ "/Mintra_CV.pdf" | absolute_url }}" ><b>CV</b></a> (last updated: May 2021).<br/>
+Here's my <a href="{{ "/Mintra_CV.pdf" | absolute_url }}" ><b>CV</b></a> (last updated: July 2021).<br/>
 
 ### Address
 Interactions Lab<br/>
