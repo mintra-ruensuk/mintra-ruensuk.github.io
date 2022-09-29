@@ -8,8 +8,8 @@ sitemap:
     changefreq: weekly
 ---
 ## Mintra Ruensuk
-PhD Student at Interactions Lab at UNIST. <br/>
-Here's my <a href="{{ "/Mintra_CV.pdf" | absolute_url }}" ><b>CV</b></a> (last updated: July 2021).<br/>
+ML Engineer at SCB. <br/>
+Here's my <a href="{{ "/Mintra_CV.pdf" | absolute_url }}" ><b>CV</b></a> (last updated: Sep 2022).<br/>
 
 ### Address
 Interactions Lab<br/>
@@ -20,8 +20,7 @@ Republic of Korea<br/>
 <a href="https://www.unist.ac.kr/about-unist/directions/road/">How to get to UNIST</a><br/>
 
 ### Contact Points
-Email: mintra [at] unist.ac.kr, mintra.ruensuk [at] gmail.com<br/>
-Tel: +82 10 4097 1979<br/>
+Email: mintra.ruensuk [at] gmail com<br/>
 Web: <a href="https://mintra-ruensuk.github.io/">https://mintra-ruensuk.github.io/</a>
 <ul class="icons">
     <li>

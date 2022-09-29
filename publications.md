@@ -8,6 +8,9 @@ sitemap:
     changefreq: weekly
 ---
 ## Publications
+[11] <b>Mintra Ruensuk</b>, Taewan Kim, Hwajung Hong, and Ian Oakley. 2022. Sad or just jealous? Using Experience Sampling to Understand and Detect Negative Affective Experiences on Instagram. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). Association for Computing Machinery, New York, NY, USA, Article 147, 1–18. <a href="https://doi.org/10.1145/3491102.3517561"> https://doi.org/10.1145/3491102.3517561</a>
+
+
 [10] <b>Mintra Ruensuk</b>, Eunyong Cheon, Hwajung Hong, and Ian Oakley. 2020. How Do You Feel Online: Exploiting Smartphone Sensors to Detect Transitory Emotions during Social Media Use. <i>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT, Ubicomp'21)</i> 4, 4, Article 150 (December 2020), 32 pages. DOI:<a href="https://doi.org/10.1145/3432223">https://doi.org/10.1145/3432223</a>
 
 [9] Taewan Kim, <b>Mintra Ruensuk</b>, Hwajung Hong. 2020. In Helping a Vulnerable Bot, You Help Yourself: Designing a Social Bot as a Care-Receiver to Promote Mental Health and Reduce Stigma. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20). DOI: <a href="https://doi.org/10.1145/3313831.3376743">https://doi.org/10.1145/3313831.3376743</a>.
