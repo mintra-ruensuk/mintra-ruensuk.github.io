@@ -8,11 +8,11 @@ sitemap:
     changefreq: weekly
 ---
 
-I like to be surrounded by a school environment. I think it helps me to feel fresh? Just only thinking about my memories in schools makes me happy already. So, why don’t I share it with you. Hope you enjoy it! 
+I enjoy being in a school setting. I find that it helps me to feel rejuvenated and energized. Just thinking about my memories from school brings me happiness. I hope you will enjoy hearing about them. 
 <hr />
 <header>
 	<h2>UNIST</h2>
-	<p>where I have been enjoying (and suffering) on my phd studies.</p>
+	<p>where I had both enjoyable and challenging experiences during my PhD studies.</p>
 </header>
 <span class="image fit"><img src="{{ "/images/unist.JPG" | absolute_url }}" alt="" /></span>
 <div class="box alt">
@@ -23,22 +23,22 @@ I like to be surrounded by a school environment. I think it helps me to feel fre
 	</div>
 </div>
 <p>
-	UNIST is located in Ulsan, South Korea. I have moved to UNIST since Fall 2017. It was my first time ever relocating outside my country. My first impression on UNIST was impressive. The school is very beautiful and is surrounded by mountains with fresh air. I found it perfect for isolation to focus on my studies, although sometimes I feel like the school is too far from everything. 
+	UNIST is located in Ulsan, South Korea. I moved to UNIST in Fall 2017, which was my first time living outside of my home country. My first impression of UNIST was very positive. The campus is beautiful and is surrounded by mountains with fresh air. I found it to be a perfect place for focusing on my studies, although at times I did feel that the school was somewhat isolated from other amenities.
 </p>
 <hr />
 <header>
 	<h2>Stamford International University</h2>
-	<p>get to know passionate students and colleagues</p>
+	<p>get to know students and colleagues who are passionate about their work</p>
 </header>
 <span class="image fit"><img src="{{ "/images/stamford.JPG" | absolute_url }}" alt="" /></span>
 <p>
-	Stamford is one of the best international schools located in Bangkok, Thailand. Students and staff are from 100+ different nationalities. This school is so cool! I had served my role as an IT Lecturer. I got to know a bunch of talented students across the world. I was so happy teaching them technical skills. Most of them have graduated by now, which makes me even happier to see them growing their career path. Some are programmers, some are designers, and all are still my favorite students. 
+	Stamford is an internationally renowned school located in Bangkok, Thailand. The student body and staff at Stamford come from over 100 different countries. I had the opportunity to serve as an IT Lecturer at this cool school, where I met a diverse group of talented students from around the world. I really enjoyed teaching them technical skills and was happy to see many of them go on to graduate and pursue successful careers in fields such as programming and design. These students will always hold a special place in my heart.
 </p>
 
 <hr />
 <header>
 	<h2>Asian Institute of Technology</h2>
-	<p>my favorite second home of all time</p>
+	<p>my all-time favorite second home</p>
 </header>
 <span class="image fit"><img src="{{ "/images/ait.JPG" | absolute_url }}" alt="" /></span>
 <div class="box alt">
@@ -55,16 +55,16 @@ I like to be surrounded by a school environment. I think it helps me to feel fre
 	</div>
 </div>
 <p>
-	AIT is one the best international graduate schools in Thailand. AIT is home. I spent my quality time here at AIT for only less than 2 years, but it's full of good memories. With the high reputation of the school in Asian, the school attracts people with high talents to join its programs. Specifically in Thailand, AIT is a place where countless amazing people come to pursue their dreams. Of course, I am a dreamer. AIT is the first ever international school that I joined. I was honored to be taught by professors and was surrounded by foreign friends. Life in AIT was very great. There are a lot of trees, houses, restaurants, and bicycle paths. Here at AIT, bicyclists are more powerful than car drivers. Don't worry you won't get hit by a car (but please be careful outside the school). God, I miss AIT so bad. 
+	AIT is one of the top international graduate schools in Thailand. It is a place that feels like home to me. Although I spent only a short time at AIT, less than 2 years, it was filled with many happy memories. AIT has a strong reputation in Asia and attracts talented students from around the world to its programs. In Thailand, AIT is a place where many people come to chase their dreams, and I was fortunate to be one of them. As a student at AIT, I was privileged to be taught by exceptional professors and to make friends with people from other countries. Life at AIT was wonderful. The campus is surrounded by trees, houses, restaurants, and bicycle paths, and bicyclists are actually more powerful than car drivers on campus. Just be careful when you're off campus! I miss AIT so much.
 </p>
 
 <header>
 	<h2>Mahanakorn University of Technology</h2>
-	<p>first place that have changed my entire world</p>
+	<p>the first place that completely changed my world</p>
 </header>
 <span class="image fit"><img src="{{ "/images/mut.jpg" | absolute_url }}" alt="" /></span>
 <p>
-	MUT might not be the most famous school in Thailand, but without MUT, I would not have come this far. Five years there was pretty long, and I enjoyed every minute as a student and also as a junior lecturer. I was completely no one before joining the school. Professors helped shape me by increasing my enthusiasm. I was a geek haha. I got to know the programming more and more and it is something that I will enjoy for the rest of my life. Image is taken from <a href="http://www.mut.ac.th/organization">http://www.mut.ac.th/organization</a>.  
+	MUT may not be the most well-known school in Thailand, but it has played a crucial role in my journey to where I am today. I spent five years at MUT as a student and later as a junior lecturer, and I enjoyed every minute of it. Before joining MUT, I was a nobody, but the professors there helped to shape me and fuel my passion for programming. I will always be grateful for the time I spent at MUT and the knowledge and skills I gained there. The image above was taken from <a href="http://www.mut.ac.th/organization">http://www.mut.ac.th/organization</a>.  
 </p>
 
 
