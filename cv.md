@@ -9,7 +9,7 @@ sitemap:
 ---
 ## Mintra Ruensuk
 Data and Analytics Professional at SCB. <br/>
-Here's my <a href="{{ "/Mintra_CV.pdf" | absolute_url }}" ><b>CV</b></a> (last updated: Sep 2022).<br/>
+Here is my <a href="{{ "/Mintra_CV.pdf" | absolute_url }}" ><b>CV</b></a>, last updated on January 2023.<br/>
 
 ### Address
 Interactions Lab<br/>
