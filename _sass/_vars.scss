@@ -1,0 +1,22 @@
+:root {
+  --bg-primary:      #0f1419;
+  --bg-surface:      #1a2130;
+  --bg-elevated:     #212c3d;
+  --border:          #2a3a4a;
+  --border-light:    rgba(255, 255, 255, 0.06);
+  --text-primary:    #e8edf2;
+  --text-secondary:  #8899a6;
+  --accent:          #18bfef;
+  --accent-hover:    #0da8d6;
+  --accent-subtle:   rgba(24, 191, 239, 0.12);
+
+  --max-width:       860px;
+  --nav-height:      60px;
+  --section-gap:     5rem;
+  --card-radius:     10px;
+
+  --font-body:       'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+
+  --transition-fast: 0.15s ease;
+  --transition-med:  0.3s ease;
+}
