@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Thank you for your correspondence
 ---
 ## Thank you for your correspondence

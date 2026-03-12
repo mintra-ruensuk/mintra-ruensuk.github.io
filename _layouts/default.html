@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+</head>
+<body>
+
+  <header class="site-nav" id="site-nav">
+    <div class="nav-inner">
+      <a class="nav-logo" href="/">Mintra</a>
+      <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <nav class="nav-links" id="nav-links">
+        <a href="/#about">About</a>
+        <a href="/#experience">Experience</a>
+        <a href="/#research">Research</a>
+        <a href="/#publications">Publications</a>
+        <a href="/#schools">Schools</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <p class="footer-email">
+      <a href="mailto:mintra.ruensuk@gmail.com">mintra.ruensuk@gmail.com</a>
+    </p>
+    <div class="footer-icons">
+      <a href="https://linkedin.com/in/mintraruensuk" target="_blank" rel="noopener" aria-label="LinkedIn">
+        <i class="fa-brands fa-linkedin"></i>
+      </a>
+      <a href="https://github.com/mintra-ruensuk" target="_blank" rel="noopener" aria-label="GitHub">
+        <i class="fa-brands fa-github"></i>
+      </a>
+      <a href="https://scholar.google.co.kr/citations?user=TXfhLygAAAAJ&hl=en" target="_blank" rel="noopener" aria-label="Google Scholar">
+        <i class="fa-solid fa-graduation-cap"></i>
+      </a>
+    </div>
+    <p class="footer-copy">Mintra Ruensuk &copy; 2026</p>
+  </footer>
+
+  <script src="/assets/js/main.js"></script>
+  {% include tracking.html %}
+
+</body>
+</html>
