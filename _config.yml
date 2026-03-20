@@ -12,6 +12,7 @@ email:       mintra.ruensuk@gmail.com
 analytics-id: "UA-177907122-1"
 
 # Jekyll
+permalink:   pretty
 markdown:    kramdown
 highlighter: rouge
 kramdown:
