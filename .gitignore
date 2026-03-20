@@ -2,6 +2,8 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-asian-chi/node_modules/
 Gemfile.lock
+node_modules/
 .DS_Store
+**/.DS_Store
+.claude/
