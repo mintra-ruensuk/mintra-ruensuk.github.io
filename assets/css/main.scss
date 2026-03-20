@@ -1,11 +1,6 @@
 ---
+# Jekyll automatically transpiles this file; access via {{site.url}}/assets/css/main.css
 ---
 
-@import 'vars';
-@import 'reset';
-@import 'typography';
-@import 'nav';
-@import 'hero';
-@import 'sections';
-@import 'cards';
-@import 'gallery';
+@import 'font-awesome.min.css';
+@import 'redesign';

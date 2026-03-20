@@ -21,6 +21,10 @@ sass:
   sass_dir: _sass
   style:    compressed
 
+# Plugins
+plugins:
+  - jekyll-sitemap
+
 # Exclude from build
 exclude:
   - README.md

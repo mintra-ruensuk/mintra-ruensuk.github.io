@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    {% include head.html %}
+	</head>
+	<body>
+
+		<!-- Mobile Nav Overlay (outside nav-wrapper to escape backdrop-filter stacking context) -->
+		<div id="mobile-nav-overlay">
+			<button class="mobile-nav-close" id="mobile-nav-close" aria-label="Close menu">
+				<span></span>
+				<span></span>
+			</button>
+			{% include nav.html %}
+		</div>
+
+		<!-- Navigation -->
+		<div id="nav-wrapper">
+			<nav id="nav">
+				<a href="{{ "/" | absolute_url }}" class="nav-logo">MR</a>
+				{% include nav.html %}
+				<button class="nav-toggle" aria-label="Toggle navigation" id="nav-toggle-btn">
+					<span></span>
+					<span></span>
+					<span></span>
+				</button>
+			</nav>
+		</div>
+
+		<!-- Main Content -->
+		<div id="main">
+			<div class="page-content">
+				{{content}}
+			</div>
+		</div>
+
+		<!-- Footer -->
+		{% include footer-minimal.html %}
+
+		<!-- Scripts -->
+		<script src="{{ "/assets/js/jquery.min.js" | absolute_url }}"></script>
+		<script>
+			document.addEventListener('DOMContentLoaded', function() {
+				// Scroll reveal
+				const reveals = document.querySelectorAll('.reveal');
+				const observer = new IntersectionObserver((entries) => {
+					entries.forEach(entry => {
+						if (entry.isIntersecting) entry.target.classList.add('is-visible');
+					});
+				}, { threshold: 0.1, rootMargin: '0px 0px -50px 0px' });
+				reveals.forEach(el => observer.observe(el));
+
+				// Mobile nav toggle
+				const toggleBtn = document.getElementById('nav-toggle-btn');
+				const overlay = document.getElementById('mobile-nav-overlay');
+				const closeBtn = document.getElementById('mobile-nav-close');
+				function closeNav() {
+					overlay.classList.remove('is-open');
+					toggleBtn.classList.remove('is-active');
+					document.body.classList.remove('nav-open');
+				}
+				if (toggleBtn && overlay) {
+					toggleBtn.addEventListener('click', function() {
+						overlay.classList.toggle('is-open');
+						toggleBtn.classList.toggle('is-active');
+						document.body.classList.toggle('nav-open');
+					});
+					if (closeBtn) closeBtn.addEventListener('click', closeNav);
+					overlay.querySelectorAll('a').forEach(link => {
+						link.addEventListener('click', closeNav);
+					});
+					overlay.addEventListener('click', function(e) {
+						if (e.target === overlay) closeNav();
+					});
+				}
+			});
+		</script>
+		{% include tracking.html %}
+
+	</body>
+</html>

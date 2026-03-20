@@ -1,0 +1,7 @@
+<ul class="links">
+  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}"><span class="nav-number">01.</span>Home</a></li>
+  <li class="{% if page.url contains '/research/' %} active {% endif %}"><a href="{{ "/research/" | absolute_url }}"><span class="nav-number">02.</span>Research</a></li>
+  <li class="{% if page.url contains '/publications/' %} active {% endif %}"><a href="{{ "/publications/" | absolute_url }}"><span class="nav-number">03.</span>Publications</a></li>
+  <li class="{% if page.url contains '/schools/' %} active {% endif %}"><a href="{{ "/schools/" | absolute_url }}"><span class="nav-number">04.</span>Education</a></li>
+  <li class="{% if page.url contains '/cv/' %} active {% endif %}"><a href="{{ "/cv/" | absolute_url }}"><span class="nav-number">05.</span>Contact</a></li>
+</ul>
